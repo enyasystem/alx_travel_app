@@ -1,0 +1,8 @@
+django
+djangorestframework
+django-cors-headers
+celery
+drf-yasg
+django-environ
+mysqlclient
+# rabbitmq is an external service, not a Python package
